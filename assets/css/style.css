@@ -1,0 +1,15 @@
+.modal-opened {
+    display: block !important;
+    visibility: visible !important;
+}
+#close-modal {
+    border: none;
+    background: red;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.credentials-container,
+.credentials-container-reverse {
+    cursor: pointer;
+}
