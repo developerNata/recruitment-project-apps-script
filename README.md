@@ -31,5 +31,5 @@ Happy coding! :-) Vitec MV
 - Get project from git;
 - Run `npm install` in project folder;
 - Run `npm run start`;
-= Check terminal and go to website.
+- Check terminal and go to website.
 
